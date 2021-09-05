@@ -1,13 +1,13 @@
 # rpggame1
 Development on this project is now on [rpggame2](https://github.com/TheSharkhead2/rpggame2), intended to be the continuation of this project. This is old code that has not been updated in a while. 
 
-##What? 
+## What? 
 This project was started with the intention of building my first game from almost entirely scratch. Devoid of game engines to hide behind beautiful graphics or already created player classes to copy, this game was made with the intention of being solely focused on developing interesting and nuanced mechanics. For this reason, it was made to be entirely text-based and run in the macOS terminal. The game allows you to build a character with different gear and abilities which affect how you can play the game and what your character is good at.  
 Currently the player can fight monsters with increasing difficulty and each presenting unique challenges, all while completing various challenges through fighting these monsters. Plans are in place to create a full world for the player to explore building from these foundations, however I figured it would be best to expand the functionality of how I display the game to the user and therefore moved development to [rpggame2](https://github.com/TheSharkhead2/rpggame2). While the game does seem limited, it did draw the attention of many people, some of which could play the game for an hour and a half engrossed with the idea of maxing our their character. I hope to continue the development of similar games in the future. 
 
-##How do I run it? 
+## How do I run it? 
 Unfortunately, playing this game won't be the simplist thing in the entire world. One of the major reasons is it requires a dark background, macOS terminal window and python 2.7. It may work on other operating systems, however I haven't tested this. The main issue here being the version of python and the packages required (as python 2.7 is deprecated now and I never kept a list of dependencies). From what I can tell the only non-default python packages used were: reprint and curses, however I can not guarantee this. 
 Personally, I have not been able to make this run in 2 years and the significant lack of commenting and documentation I made for this project means it may be a lot of work to get it running again. Let me know if you are able to get it running though! 
 
-##My Thoughts
+## My Thoughts
 This project was extremely fun to make and I still plan to work on recreating it, with better practices this time, with my work on this project: [rpggame2](https://github.com/TheSharkhead2/rpggame2). I learned a lot through this project and I am really happy with how it turned out, even if I can't really run it now. For future games and projects I work on, I definetly want to improve my documentation pratices, so I can run my future projects. If you do get this game running, I hope you enjoy playing through it as much as I did. 
